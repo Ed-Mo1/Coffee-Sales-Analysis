@@ -11,7 +11,7 @@ A dynamic, fully interactive two-page Microsoft Excel dashboard designed to anal
 ### 1. Overview Dashboard
 *High-level business health and executive key performance indicators.*
 
-![Overview Dashboard](images/overview_dashboard.png)
+![Overview Dashboard](images/overview.png)
 
 ### 2. Coffee Sales Details Dashboard
 *Granular product performance, temporal trends, and customer buying patterns.*
