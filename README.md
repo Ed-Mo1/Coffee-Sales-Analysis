@@ -6,7 +6,7 @@ A dynamic, fully interactive two-page Microsoft Excel dashboard designed to anal
 
 ## 📸 Dashboard Gallery
 
-> *Screenshots of the completed interactive dashboards. (To display your own images, save your screenshots in an `images` folder in your repository and update the paths below).*
+> *Screenshots of the completed interactive dashboards.
 
 ### 1. Overview Dashboard
 *High-level business health and executive key performance indicators.*
@@ -59,19 +59,6 @@ A dynamic, fully interactive two-page Microsoft Excel dashboard designed to anal
 *   Applied a professional, cohesive color palette matching the "coffee theme" (warm, desaturated tones).
 *   Created a consistent grid layout for charts and KPI cards to maximize readability.
 *   Connected slicers to all pivot tables across both dashboards to ensure seamless, unified filtering.
-
----
-
-## 🚀 How to Use the Dashboard
-
-1.  Clone this repository or download the `.xlsx` file:
-    ```bash
-    git clone [https://github.com/your-username/coffee-sales-dashboard.git](https://github.com/your-username/coffee-sales-dashboard.git)
-    ```
-2.  Open the file in **Microsoft Excel** (Desktop version recommended for full slicer and Power Query compatibility).
-3.  Use the **Timeline** slicer at the top of either sheet to filter the entire dataset by date range.
-4.  Toggle the sidebar **Slicers** (e.g., Coffee Type, Size) to instantly update all visualizations and KPI cards.
-5.  *(Optional)* To view the backend data cleaning process, go to the **Data** tab in Excel and click **Queries & Connections**.
 
 ---
 
